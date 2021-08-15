@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## The Natural Biometrician
 
-You can use the [editor on GitHub](https://github.com/TheNaturalBiometrician/TheNaturalBiometrician.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This will serve as a repo of ideas for the creation and brainstorming of a world class open forest management model.  This will be in support of:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Forest.NaturalBiometrician.org/](https://forest.naturalbiometrician.org/)
 
-### Markdown
+I am an individual (hence THE) where I am trying to build a community that is the Natural Biometrician Project.  I have spent years thinking about this and trying to promote it.  Time to take a new approach now that the landscape has changed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Community Guidelines
 
-```markdown
-Syntax highlighted code block
+### Licensing
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheNaturalBiometrician/TheNaturalBiometrician.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Ideas
