@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # The Natural Biometrician
 
 This will serve as a repo of ideas for the creation and brainstorming of a world class open forest management model.  This will be in support of:
