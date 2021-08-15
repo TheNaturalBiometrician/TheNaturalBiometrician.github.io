@@ -8,6 +8,12 @@ I am an individual (hence THE) where I am trying to build a community that is th
 
 ### Community Guidelines
 
+- Rules that must be obeyed for a civil community
+
 ### Licensing
 
+See LICENSE
+
 ### Ideas
+
+Brainstorm here
