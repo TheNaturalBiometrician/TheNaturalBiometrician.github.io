@@ -16,7 +16,9 @@ I am an individual (hence THE) where I am trying to build a community that is th
 
 ## Licensing
 
-See LICENSE
+See [LICENSE](./LICENSE)
+
+This is subject to change but will always be OPEN
 
 ## Ideas
 
